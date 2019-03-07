@@ -3,3 +3,5 @@ print("Random sample test")
 Adding for second commit
 
 Adding third commit
+
+Adding fourth commit via bash
