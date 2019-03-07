@@ -5,3 +5,5 @@ Adding for second commit
 Adding third commit
 
 Adding fourth commit via bash
+
+Commiting via git bash from branch
