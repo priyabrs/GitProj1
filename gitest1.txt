@@ -7,3 +7,5 @@ Adding third commit
 Adding fourth commit via bash
 
 Commiting via git bash from branch
+
+commit git bash via branch 14 APR 2019
